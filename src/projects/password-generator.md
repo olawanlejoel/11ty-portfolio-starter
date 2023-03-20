@@ -1,5 +1,4 @@
 ---
-layout: layouts/project.njk
 title: Password Generator
 description: "Helps you generates random passwords, you can select what you want your password to entail and also you can copy generated password to clipboard."
 gitHubURL: "https://github.com/olawanlejoel/Password-Generator"

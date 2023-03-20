@@ -1,5 +1,4 @@
 ---
-layout: layouts/project.njk
 title: Quotes Generator
 description: "Helps you generates quotes from about 1600 quotes written by different authors . Quotes are automatically copied to your clipboards."
 gitHubURL: "https://github.com/olawanlejoel/random-quote-generator"

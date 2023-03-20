@@ -1,5 +1,4 @@
 ---
-layout: layouts/project.njk
 title: Book Library App
 description: "A simple Book Library App built with JavaScript. It helps readers have a good list of books they are eiter currently reading or have finished reading."
 gitHubURL: "https://github.com/olawanlejoel/Book-Library"
